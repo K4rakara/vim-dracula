@@ -1,17 +1,17 @@
 " Palette: {{{
 
 let g:dracula#palette           = {}
-let g:dracula#palette.fg        = ['#F8F8F2', 253]
+let g:dracula#palette.fg        = ['#CCCCCC', 253]
 
-let g:dracula#palette.bglighter = ['#424450', 238]
-let g:dracula#palette.bglight   = ['#343746', 237]
-let g:dracula#palette.bg        = ['#282A36', 236]
-let g:dracula#palette.bgdark    = ['#21222C', 235]
-let g:dracula#palette.bgdarker  = ['#191A21', 234]
+let g:dracula#palette.bglighter = ['#444444', 238]
+let g:dracula#palette.bglight   = ['#333333', 237]
+let g:dracula#palette.bg        = ['#222222',   0]
+let g:dracula#palette.bgdark    = ['#111111', 233]
+let g:dracula#palette.bgdarker  = ['#000000', 232]
 
-let g:dracula#palette.comment   = ['#6272A4',  61]
-let g:dracula#palette.selection = ['#44475A', 239]
-let g:dracula#palette.subtle    = ['#424450', 238]
+let g:dracula#palette.comment   = ['#555555', 240]
+let g:dracula#palette.selection = ['#333333', 239]
+let g:dracula#palette.subtle    = ['#444444', 238]
 
 let g:dracula#palette.cyan      = ['#8BE9FD', 117]
 let g:dracula#palette.green     = ['#50FA7B',  84]
